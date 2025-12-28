@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá! 👋 Eu sou João Paulo
 
-<!--
-**joaopauloazeved/joaopauloazeved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software (4º semestre)
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software, com interesse em desenvolvimento
+de software e fundamentos da computação. Atualmente focado em aprimorar
+meus conhecimentos em programação e estruturas de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Java
+- JavaScript
+- HTML
+- CSS
+- MySQL
+
+## 📚 Atualmente estudando
+- Estruturas de Dados
+- Programação Orientada a Objetos
+- Algoritmos
+
+## 📂 Projetos
+- Exercícios acadêmicos
+- Projetos práticos para aprendizado
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/joao-paulo-viana-macedo-de-azevedo-b29bbb325
+- Email: joaopaulo.azevedo@ucsal.edu.br
